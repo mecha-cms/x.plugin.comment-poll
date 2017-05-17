@@ -1,0 +1,7 @@
+.comment-footer .poll {
+  display:inline-block;
+  vertical-align:middle;
+  line-height:inherit;
+  margin:0;
+}
+.comment-footer .poll--a {margin:0}

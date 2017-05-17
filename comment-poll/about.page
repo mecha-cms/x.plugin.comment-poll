@@ -1,0 +1,24 @@
+---
+title: Comment Poll
+description: Add like button in comments.
+author: Taufik Nurrohman
+type: Markdown
+version: 1.0.0
+...
+
+You can also change the poll type other than `poll/like` by editing the configuration data in `lot\extend\plugin\lot\worker\comment-poll\lot\state\config.php`:
+
+~~~ .php
+[
+    'poll' => 'poll/like'
+]
+~~~
+
+### Dependency
+
+#### Extension
+
+ - Comments
+ - Polls
+
+<!-- block:donate -->

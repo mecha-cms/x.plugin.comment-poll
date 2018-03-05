@@ -3,7 +3,7 @@ title: Comment Poll
 description: Add like button in comments.
 author: Taufik Nurrohman
 type: Markdown
-version: 1.0.0
+version: 1.0.1
 
 dependency:
   extension:
@@ -18,12 +18,5 @@ You can also change the poll type other than `poll/like` by editing the configur
     'poll' => 'poll/like'
 ]
 ~~~
-
-### Dependency
-
-#### Extension
-
- - Comments
- - Polls
 
 <!-- block:donate -->

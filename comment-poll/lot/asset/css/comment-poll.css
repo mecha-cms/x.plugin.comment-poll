@@ -1,4 +1,5 @@
-.comment-footer .poll {
+.comment-footer .poll,
+.comment-footer .poll.p {
   display:inline-block;
   vertical-align:middle;
   line-height:inherit;

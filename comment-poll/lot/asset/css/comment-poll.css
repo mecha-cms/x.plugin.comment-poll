@@ -6,3 +6,4 @@
   margin:0;
 }
 .comment-footer .poll--a {margin:0}
+.comment-footer .poll--a > span {margin-bottom:0}

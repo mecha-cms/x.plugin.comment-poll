@@ -1,7 +1,7 @@
 .comment-footer .poll,
 .comment-footer .poll.p {
   display:inline-block;
-  vertical-align:middle;
+  vertical-align:baseline; /* :( */
   line-height:inherit;
   margin:0;
 }
